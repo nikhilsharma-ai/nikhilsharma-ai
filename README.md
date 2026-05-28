@@ -1,28 +1,14 @@
-# Hi, I'm Nikhil Sharma 👋
+# Hi 👋, I'm Nikhil Sharma
 
-🚀 Aspiring Data Scientist & AI Engineer
-🎓 BCA Graduate
-💼 Former SQL Intern at Celebal Technologies
-📍 Jaipur, India
+### Aspiring Data Scientist & AI Engineer
 
----
-
-## About Me
-
-I am passionate about:
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Generative AI
-* NLP
-* Data Analytics
-
-Currently building Python, Data Science, and AI projects to become an industry-ready AI Engineer.
+🎓 MCA Student in AI & Data Science at Poornima University
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Data Analytics
+🚀 Currently building Python, AI, and Data Science projects to become an industry-ready AI Engineer
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -33,60 +19,34 @@ Currently building Python, Data Science, and AI projects to become an industry-r
 
 * Pandas
 * NumPy
-* Scikit-Learn
 * TensorFlow
-* PyTorch
-
-### Visualization
-
 * Power BI
-* Matplotlib
-* Seaborn
 
-### Tools
+### Databases & Tools
 
-* Git
-* GitHub
+* MySQL
+* Git & GitHub
+* Linux
 * VS Code
 
 ---
 
-## Current Focus
+## 📜 Certifications
 
-* Python Development
+* Crash Course on Python — Google
+* Data Mining — IIT Kharagpur (NPTEL)
+* Azure AI Fundamentals — Microsoft
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Python
+* Data Science
 * Machine Learning
-* Data Analytics
-* AI Projects
-* GitHub Portfolio Building
+* Generative AI
+* Deep Learning
 
 ---
 
-## Featured Repositories
-
-* Python Projects
-* SQL Practice Notes
-* Data Analysis Projects
-* Machine Learning Projects
-
----
-
-## Connect With Me
-
-* LinkedIn
-* Email
-* Portfolio Website (Coming Soon)
-
-<!--
-**nikhilsharma-ai/nikhilsharma-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning, building, and improving in AI & Data Science.
